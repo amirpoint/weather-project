@@ -1,4 +1,4 @@
-﻿# weather-project
+﻿# Weather Project
 A little weather project for learn how to use JSON API using JS.
 
 ## Installation and Setup Instructions
