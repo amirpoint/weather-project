@@ -9,10 +9,10 @@ Installation:
 
 `npm i`
 
-To Start Server:
+To start server:
 
 `node app.js`
 
-To Visit App:
+To visit page:
 
 `127.0.0.1:3030`
